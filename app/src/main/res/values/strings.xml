@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">APItester</string>
+    <string name="text_main_title">User form</string>
+    <string name="text_id">id:</string>
+    <string name="text_userid">userID</string>
+    <string name="text_title">Title</string>
+    <string name="et_id_hint">id</string>
+    <string name="et_userid_hint">user id</string>
+    <string name="et_title_hint">title</string>
+    <string name="et_body_hint">body</string>
+    <string name="text_back_parseactivity">BACK</string>
+    <string name="btn_parse_text">parse</string>
+    <string name="btn_left"><![CDATA[<<]]></string>
+    <string name="btn_right"><![CDATA[>>]]></string>
+    <string name="text_body">body</string>
+</resources>
